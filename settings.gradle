@@ -1,0 +1,1 @@
+include ':libero-core', ':server', ':client'
